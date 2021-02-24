@@ -1,0 +1,22 @@
+{
+  "name": "vscode-theme-darklight",
+  "displayName": "DarkLight Theme",
+  "description": "An elegantly pleasant dark theme.",
+  "version": "0.0.1",
+  "publisher": "dhruwlalan",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "darklight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darklight-color-theme.json"
+      }
+    ]
+  }
+}
