@@ -7,7 +7,7 @@
   "author": "dhruw lalan <dhruwlalan22@gmail.com>",
   "icon": "icon.png",
   "license": "MIT",
-  "homepage": "https://github.com/dhruwlalan/vscode-theme-darklight/README.md",
+  "homepage": "https://github.com/dhruwlalan/vscode-theme-darklight#darklight",
   "engines": {
     "vscode": "^1.53.0"
   },
