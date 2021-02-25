@@ -1,12 +1,12 @@
-<svg width="572" height="572" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" class="iconify iconify--ion">
-
+<svg width="613" height="610" xmlns="http://www.w3.org/2000/svg" class="iconify iconify--ion" preserveAspectRatio="xMidYMid meet">
  <g>
   <title>Layer 1</title>
-  <ellipse stroke="#181818" transform="rotate(-0.056375809013843536 286.00003051739577,286.0000000000236) " ry="264" rx="264" id="svg_7" cy="286" cx="286.00001" opacity="undefined" stroke-dasharray="null" stroke-width="42" fill="#181818"/>
-  <circle id="svg_1" fill="#ff1493" stroke-width="10" stroke-miterlimit="10" stroke="#ff1493" r="26" cy="286" cx="285"/>
-  <circle id="svg_3" fill="#00ffff" stroke-width="10" stroke-miterlimit="10" stroke="#00ffff" r="26" cy="286" cx="195"/>
-  <path id="svg_4" d="m190,398l-128,-112l128,-112" stroke-width="42" stroke-linejoin="round" stroke-linecap="round" stroke="#e5e5e5" fill="none"/>
-  <path id="svg_5" d="m383,398l128,-112l-128,-112" stroke-width="42" stroke-linejoin="round" stroke-linecap="round" stroke="#e5e5e5" fill="none"/>
-  <circle id="svg_2" fill="#00fa9a" stroke-width="10" stroke-miterlimit="10" stroke="#00fa9a" r="26" cy="286" cx="375"/>
+  <ellipse fill="#181818" stroke-width="42" stroke-dasharray="null" opacity="undefined" cx="306.00001" cy="306" id="svg_7" rx="264" ry="264" transform="rotate(-0.056375809013843536 306,306.00000000000864) " stroke="#181818"/>
+  <circle cx="305" cy="303" r="26" stroke="#ff1493" stroke-miterlimit="10" stroke-width="10" fill="#ff1493" id="svg_1"/>
+  <circle cx="215" cy="303" r="26" stroke="#ffff00" stroke-miterlimit="10" stroke-width="10" fill="#ffff00" id="svg_3"/>
+  <path fill="none" stroke="#00ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="42" d="m210,415l-128,-112l128,-112" id="svg_4"/>
+  <path fill="none" stroke="#00ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="42" d="m403,415l128,-112l-128,-112" id="svg_5"/>
+  <circle cx="395" cy="303" r="26" stroke="#00fa9a" stroke-miterlimit="10" stroke-width="10" fill="#00fa9a" id="svg_2"/>
  </g>
+
 </svg>
