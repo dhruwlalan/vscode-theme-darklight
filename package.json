@@ -4,16 +4,33 @@
   "description": "An elegantly pleasant dark theme.",
   "version": "0.0.1",
   "publisher": "dhruwlalan",
+  "author": "dhruw lalan <dhruwlalan22@gmail.com>",
+  "icon": "icon.png",
+  "license": "MIT",
+  "homepage": "https://github.com/dhruwlalan/vscode-theme-darklight/README.md",
   "engines": {
     "vscode": "^1.53.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "colorful",
+    ""
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhruwlalan/vscode-theme-darklight"
+  },
+  "scripts": {
+    "publish": "vsce publish"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "darklight",
+        "label": "DarkLight",
         "uiTheme": "vs-dark",
         "path": "./themes/darklight-color-theme.json"
       }

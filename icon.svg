@@ -1,0 +1,12 @@
+<svg width="572" height="572" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" class="iconify iconify--ion">
+
+ <g>
+  <title>Layer 1</title>
+  <ellipse stroke="#181818" transform="rotate(-0.056375809013843536 286.00003051739577,286.0000000000236) " ry="264" rx="264" id="svg_7" cy="286" cx="286.00001" opacity="undefined" stroke-dasharray="null" stroke-width="42" fill="#181818"/>
+  <circle id="svg_1" fill="#ff1493" stroke-width="10" stroke-miterlimit="10" stroke="#ff1493" r="26" cy="286" cx="285"/>
+  <circle id="svg_3" fill="#00ffff" stroke-width="10" stroke-miterlimit="10" stroke="#00ffff" r="26" cy="286" cx="195"/>
+  <path id="svg_4" d="m190,398l-128,-112l128,-112" stroke-width="42" stroke-linejoin="round" stroke-linecap="round" stroke="#e5e5e5" fill="none"/>
+  <path id="svg_5" d="m383,398l128,-112l-128,-112" stroke-width="42" stroke-linejoin="round" stroke-linecap="round" stroke="#e5e5e5" fill="none"/>
+  <circle id="svg_2" fill="#00fa9a" stroke-width="10" stroke-miterlimit="10" stroke="#00fa9a" r="26" cy="286" cx="375"/>
+ </g>
+</svg>
