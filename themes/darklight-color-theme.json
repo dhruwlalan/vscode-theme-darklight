@@ -542,11 +542,26 @@
         "foreground": "#FF6347"
       }
     },
+    //#Puntuations#//
+    {
+      "scope": ["punctuation"],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#FFFFFF"
+      }
+    },
     //#String#//
     {
       "scope": ["string", "punctuation.definition.string"],
       "settings": {
         "foreground": "#00FA9A"
+      }
+    },
+    //#Constant#//
+    {
+      "scope": ["constant", "constant.language"],
+      "settings": {
+        "foreground": "#EE82EE"
       }
     },
     ///----- ENV -----///
