@@ -3,9 +3,9 @@
   "type": "dark",
   "colors": {
     //#Scrollbar#//
-    "scrollbarSlider.background": "#3E445140",
-    "scrollbarSlider.hoverBackground": "#00BFFF40",
-    "scrollbarSlider.activeBackground": "#00BFFF80",
+    "scrollbarSlider.background": "#00ffff30",
+    "scrollbarSlider.hoverBackground": "#00ffff50",
+    "scrollbarSlider.activeBackground": "#00ffff70",
     "scrollbar.shadow": "#0000",
     //# Activity Bar#//
     "activityBar.background": "#181818",
@@ -198,7 +198,7 @@
     },
     //#Puntuations#//
     {
-      "scope": ["punctuation", "text"],
+      "scope": ["punctuation", "text", "source"],
       "settings": {
         "fontStyle": "",
         "foreground": "#FFFFFF"
