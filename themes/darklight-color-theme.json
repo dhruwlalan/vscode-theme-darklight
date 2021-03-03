@@ -30,7 +30,7 @@
     "tab.activeBorderTop": "#00ffff",
     //# Editor#//
     "editor.background": "#181818",
-    "editorLineNumber.foreground": "#00ffff",
+    "editorLineNumber.foreground": "#00ffff80",
     "editorLineNumber.activeForeground": "#00ffff",
     "editorCursor.foreground": "#ffffff",
     "editor.lineHighlightBackground": "#212121",
@@ -38,8 +38,8 @@
     "editor.selectionHighlightBackground": "#00ffff10",
     "editor.selectionHighlightBorder": "#00ffff60",
     "editorIndentGuide.background": "#202020",
-    "editorBracketMatch.background": "#00ffff10",
-    "editorBracketMatch.border": "#00ffff80",
+    "editorBracketMatch.background": "#00ffff30",
+    "editorBracketMatch.border": "#00000000",
     //# Status Bar#//
     "statusBar.background": "#181818",
     "statusBar.foreground": "#00ffff",
@@ -224,16 +224,23 @@
     },
     //#String Interpolation#//
     {
-      "name": "String interpolation",
       "scope": [
-        "punctuation.definition.interpolation",
         "punctuation.definition.template-expression.begin",
-        "punctuation.definition.template-expression.end",
-        "punctuation.section.embedded"
+        "punctuation.definition.template-expression.end"
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#c3ff00"
+        "foreground": "#7ea5fa"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.interpolation",
+        "punctuation.section.embedded"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#7ea5fa"
       }
     },
     //#Constant#//
@@ -280,6 +287,7 @@
       "scope": [
         "entity.name.function",
         "support.function",
+        "variable.language.super",
         "support.constant.handlebars",
         "source.powershell variable.other.member",
         "entity.name.operator.custom-literal"
@@ -920,6 +928,13 @@
         "foreground": "#7affcc"
       }
     },
+    ///----- REACT -----///
+    {
+      "scope": ["entity.name.tag support.class.component"],
+      "settings": {
+        "foreground": "#FF69B4"
+      }
+    },
     ///----- REGEX -----///
     {
       "name": "Regular expression groups",
@@ -960,12 +975,6 @@
       }
     },
     ///----- MARKDOWN -----///
-    // {
-    //   "scope": "markup.underline",
-    //   "settings": {
-    //     "fontStyle": "underline"
-    //   }
-    // },
     {
       "scope": "markup.bold",
       "settings": {
@@ -997,7 +1006,6 @@
         "foreground": "#569cd6"
       }
     },
-
     {
       "scope": ["markup.heading", "heading.1.markdown punctuation"],
       "settings": {

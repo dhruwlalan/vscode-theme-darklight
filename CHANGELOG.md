@@ -1,6 +1,7 @@
-## 0.1.3
+## 0.1.5
 
 - Add more syntax highlighting
+- Tweaked line numbers foreground
 
 ## 0.1.0
 
