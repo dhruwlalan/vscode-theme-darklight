@@ -828,7 +828,10 @@
     },
     //#Strings#//
     {
-      "scope": ["text.html.vue-html string.quoted.double.html"],
+      "scope": [
+        "text.html.vue-html string.quoted.double.html",
+        "text.html.vue-html punctuation.definition.string"
+      ],
       "settings": {
         "fontStyle": "",
         "foreground": "#F0E68C"
